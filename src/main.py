@@ -13,4 +13,4 @@ def count(textfile):
 
 
 
-count('C:\\Users\\Hussain Mumtaz\\Desktop\\Projects\\Python\\Word Counter\\shots.txt')
+count(**YOUR TEXT FILE HERE**)
